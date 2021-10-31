@@ -30,7 +30,7 @@
 "PENGATURAN_IKLAN_INTER" : "UNITY",
 "PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
-"INTER_COUNT" : "10", //Standart 20 - kalau 2 atau 4 banter duitnya
+"INTER_COUNT" : "2", //Standart 20 - kalau 2 atau 4 banter duitnya
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
