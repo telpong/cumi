@@ -28,7 +28,7 @@
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "UNITY",
-"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTER_COUNT" : "2", //Standart 20 - kalau 2 atau 4 banter duitnya
 
